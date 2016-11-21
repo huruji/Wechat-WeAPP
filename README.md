@@ -8,3 +8,7 @@ some demo for Wechat APP
 
 ## Weather
 ![](demoImg/weather1.jpg)
+![](demoImg/weather2.jpg)
+![](demoImg/weather3.jpg)
+![](demoImg/weather4.jpg)
+![](demoImg/weather5.jpg)
