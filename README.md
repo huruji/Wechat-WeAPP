@@ -12,3 +12,12 @@ some demo for Wechat APP
 ![](demoImg/weather3.jpg)
 ![](demoImg/weather4.jpg)
 ![](demoImg/weather5.jpg)
+
+
+## movie
+![](demoImg/movie.gif)
+![](demoImg/movie1.jpg)
+![](demoImg/movie2.jpg)
+![](demoImg/movie3.jpg)
+![](demoImg/movie4.jpg)
+![](demoImg/movie5.jpg)
